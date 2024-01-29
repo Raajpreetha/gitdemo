@@ -1,2 +1,3 @@
 ### Name: Raajalakshme
-Github username: Raajpreetha
+Github username: Raajpreethag
+profession: Software engineer
